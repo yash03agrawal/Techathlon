@@ -1,0 +1,8 @@
+You can approach the program in the following order:
+
+1. DataAnalysis.ipynb - The data is analysed visually to bring out the prominent and the less important features 
+2. PreProcessing.ipynb - The data is preprocessed: different datasets are merged into a single dataframe, duplicates are removed, non numerical data is converted to numerical data using LabelEncoder
+3. Initial_Model.ipynb - This contains the initial model with all the features processed using RandomForest classifier and a relative feature importance table is generated
+4. Final_Model.ipynb - This contains the final model processed after dropping some data columns based on relative feature importance table, thus improving the efficiency and accuracy of our model
+5. datagraph.ipynb - This contains the code needed to generate 3 files 'grade_1.csv', 'grade_5.csv', 'file23.csv' needed for the graph generation
+6. graphs.ipynb - This contains the code needed to generate the graphs needed to analyse the final data
