@@ -1,4 +1,5 @@
 # Predicting and Managing the impact of Earthquake
+# Please read the approach.txt file for reference on how to access the files
 
 **Problem Statement/Objective**: Natural disasters like earthquakes have always caused incalculable damage to structures and properties and caused the deaths of millions of people throughout the world. In order to minimize the impact of such a deadly event in these regions national, international and transnational organizations take all sorts of pre- and post-disaster measures. Because time and quantity of the organization’s relief resources are limiting factors, emergency managers have to find an optimal schedule for assigning resources to the affected areas. Leveraging the power of machine learning is one viable option to determine the degree of damage that is done to buildings post an earthquake. It can help identify safe and unsafe buildings which helps to predict most damaged prone area and thus avoiding death and injuries resulting from aftershock while simultaneously making rescue efforts easy and efficient.
 
